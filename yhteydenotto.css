@@ -1,0 +1,30 @@
+body {
+    width: 100vw;
+    height: 100vw;
+    background-image: url('taustakuva2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+h2 {
+    font-size: 50px;
+    color: #ffffff;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+p2 {
+    font-size: 20px;
+    color: #ffffff;
+}
+
+a {
+    font-size: 30px;
+    color: #ffffffa4;
+}
